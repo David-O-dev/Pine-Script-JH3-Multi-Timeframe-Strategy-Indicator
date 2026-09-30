@@ -1,0 +1,1 @@
+# Pine-Script-JH3-Multi-Timeframe-Strategy-Indicator
